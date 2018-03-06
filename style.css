@@ -1,0 +1,21 @@
+header {
+	height:70px;
+	background: #312E1A;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Helvetica neue', sans-serif;
+    font-size: 3em;
+    margin: auto;
+    vertical-align: middle;
+    color: white;
+    padding: 1px;
+}
+
+
+.minichat {
+    display: flex;
+    justify-content: center;
+}
+
