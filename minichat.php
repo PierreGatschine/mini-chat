@@ -7,7 +7,7 @@
 	</head>
 	<body>
 		<header>
-			<h1>miniChat</h1>
+			<h1>miniChat et gros minet</h1>
 		</header>
 
 		<div class="minichat">
